@@ -1,2 +1,2 @@
 # mnemosyne
-mnemosyne: a database library
+mnemosyne: database library

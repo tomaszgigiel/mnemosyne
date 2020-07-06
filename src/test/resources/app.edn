@@ -1,0 +1,10 @@
+{
+ :db {
+      :dbtype "hsqldb"
+      :classname "org.hsqldb.jdbc.JDBCDriver"
+      :username "sa"
+      :password "sa"
+      :jdbcUrl "jdbc:hsqldb:file:./target/mydb/;shutdown=true"
+      }
+ :source "./src/test/resources/omegacgl/omegacgl.zip"
+}
